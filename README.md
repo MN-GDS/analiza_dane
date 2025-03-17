@@ -1,1 +1,1 @@
-# analiza_dane
+Przestrzeń dla projektów z zakresu analizy danych, data science, GIS
